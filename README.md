@@ -1,0 +1,2 @@
+# crypto
+automatic crypto trading
